@@ -1,0 +1,25 @@
+body
+{
+   background-color: pink ;
+   text-align:center;
+   font-family: garamond;
+   
+}
+a:link, a:visited
+        {
+            color:black;
+            background-color:PaleVioletRed;
+            text-decoration:none;
+            text-align:center;
+            padding:30px;
+            display:inline-block;
+            border-radius:30px;
+        }
+
+        a:hover, a:active
+
+        {
+            color:navajowhite;
+            background-color:black;
+        }
+        
